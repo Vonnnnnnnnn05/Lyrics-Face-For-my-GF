@@ -15,5 +15,6 @@ p{
     background-position: center;
     background: url(love.png) no-repeat;
     background-attachment: fixed;
-    -webkit-text-fill-color: rgb(225, 225, 225,0);
+    color: rgba(255, 255, 255, 0.2);
+    -webkit-text-fill-color: rgba(182, 182, 182, 0.377);
 }
